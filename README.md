@@ -1,5 +1,9 @@
 <h1 align="center">Hola 👋, Soy Carlos QL</h1>
 <h3 align="center">Soy una persona apasionada por la electrónica y por la programación de sistemas embebidos y aplicaciones móviles</h3>
+<li> Programacion en C y ASM de Microcontrolador PIC de Microchip </li>
+<li> Programacion en C de Microcontrolador AVR de Microchip </li>
+<li> Programacion en C de Microcontrolador con Arquietctura ARM STM32 </li>
+<li> Desarrolo de Aplicaciones móviles Android con Kotlin y Java </li>
 
 <h3 align="left">Conectate conmigo:</h3>
 <p align="left">
