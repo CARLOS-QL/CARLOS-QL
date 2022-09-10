@@ -1,5 +1,6 @@
 <h1 align="center">Hola 👋, Soy Carlos QL</h1>
 <h3 align="center">Soy una persona apasionada por la electrónica, la programación de sistemas embebidos y desarrollo de aplicaciones móviles. Actualmente soy creador de contenido en Youtube</h3>
+<h4  align="left">Conocimientos: </h4>
 <li> Programacion en C y ASM de Microcontrolador PIC de Microchip </li>
 <li> Programacion en C de Microcontrolador AVR de Microchip </li>
 <li> Programacion en C de Microcontrolador con Arquietctura ARM STM32 </li>
